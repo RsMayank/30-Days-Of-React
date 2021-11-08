@@ -1,16 +1,16 @@
 <div align="center">
 
   <h1> 30 Days Of React: JavaScript Refresher</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/rsmayank/">
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
 
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/rsmayank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rsmayank?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/rsmayank/" target="_blank">Mayank Srivastava</a><br>
 <small> October, 2020</small>
 </sub>
 
@@ -304,7 +304,7 @@ _Your main.js file should be below all other scripts_. It is very important to r
 We use _var_, _let_ and _const_ to declare a variable. The _var_ is functions scope, however _let_ and _const_ are block scope. In this challenge we use ES6 and above features of JavaScript. Avoid using _var_.
 
 ```js
-let firstName = 'Asabeneh'
+let firstName = 'rsmayank'
 firstName = 'Eyob'
 
 const PI = 3.14 // Not allowed to reassign PI to a new value
@@ -1548,7 +1548,7 @@ The for in loop can be used with object literals to get the keys of the object.
 ```js
 const user = {
   firstName: 'Asabeneh',
-  lastName: 'Yetayeh',
+  lastName: 'Srivastava',
   age: 250,
   country: 'Finland',
   skills: ['HTML', 'CSS', 'JS', 'React', 'Node', 'Python', 'D3.js'],
