@@ -5,8 +5,8 @@
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
 
-  <a class="header-badge" target="_blank" href="https://twitter.com/rsmayank">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rsmayank?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/rs_mayank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rs_mayank?style=social">
   </a>
 
 <sub>Author:
